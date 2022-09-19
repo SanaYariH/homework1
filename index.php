@@ -19,7 +19,7 @@
 $servername = "localhost";
 $username = "projecto_homework3";
 $password = "0w_zeP}]OVy0";
-$dbname = "projecto_homework3";
+$dbname = "sanaoucr_homework3-MIS4013";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
